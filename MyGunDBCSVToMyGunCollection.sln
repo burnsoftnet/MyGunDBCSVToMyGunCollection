@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGunDBCSVToMyGunCollection", "MyGunDBCSVToMyGunCollection\MyGunDBCSVToMyGunCollection.csproj", "{E2D14B32-BE25-498B-AFA2-8BFDBD4384FB}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BurnSoft.Universal", "..\..\GitHub\BurnSoft.Universal\BurnSoft.Universal\BurnSoft.Universal.vbproj", "{FEA68F73-AED1-4AF3-A5C9-7541C70F886F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E2D14B32-BE25-498B-AFA2-8BFDBD4384FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2D14B32-BE25-498B-AFA2-8BFDBD4384FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2D14B32-BE25-498B-AFA2-8BFDBD4384FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA68F73-AED1-4AF3-A5C9-7541C70F886F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA68F73-AED1-4AF3-A5C9-7541C70F886F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA68F73-AED1-4AF3-A5C9-7541C70F886F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA68F73-AED1-4AF3-A5C9-7541C70F886F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

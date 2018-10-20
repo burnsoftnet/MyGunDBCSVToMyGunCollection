@@ -14,6 +14,6 @@ namespace MyGunDBCSVToMyGunCollection.classes
         public string Stock { get; set; }
         public string FireArmType { get; set; }
         public string Location { get; set; }
-
+        public string Origin { get; set; }
     }
 }

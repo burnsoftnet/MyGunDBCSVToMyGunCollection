@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MyGunDBCSVToMyGunCollection")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("MyGunDB CSV To My Gun Collection")]
+[assembly: AssemblyDescription("Use the Exported CSV File format from the MyGunDb Application to inert that data intot he My Gun Collection Database")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Burnsoft")]
 [assembly: AssemblyProduct("MyGunDBCSVToMyGunCollection")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright © www.burnsoft.net 2018")]
+[assembly: AssemblyTrademark("www.burnsoft.net")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
