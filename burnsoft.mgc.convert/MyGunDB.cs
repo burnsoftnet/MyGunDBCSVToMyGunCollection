@@ -5,8 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-
-namespace MyGunDBCSVToMyGunCollection.classes
+namespace burnsoft.mgc.convert
 {
     public class MyGunDB
     {
