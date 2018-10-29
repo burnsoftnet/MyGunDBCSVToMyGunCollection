@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace burnsoft.mgc.convert.Types
+namespace BurnSoft.mgc.convert.Types
 {
     public class MyGunDBFields
     {

@@ -7,8 +7,8 @@
     <ProjectGuid>{9B9909C4-F439-4557-A959-161AF98B841B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>burnsoft.mgc.convert</RootNamespace>
-    <AssemblyName>burnsoft.mgc.convert</AssemblyName>
+    <RootNamespace>BurnSoft.mgc.convert</RootNamespace>
+    <AssemblyName>BurnSoft.mgc.convert</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FormatData.cs" />
     <Compile Include="MyGunCollection\Database.cs" />
+    <Compile Include="MyGunCollection\Registry.cs" />
     <Compile Include="MyGunDB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Types\MyGunDBFields.cs" />

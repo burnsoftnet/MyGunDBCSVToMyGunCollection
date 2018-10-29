@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.Odbc;
 
-namespace burnsoft.mgc.convert.MyGunCollection
+namespace BurnSoft.mgc.convert.MyGunCollection
 {
     public class Database
     {
         public static OdbcConnection Conn;
 
-        private static string ClassLocation = "burnsoft.mgc.convert.MyGunCollection.Database";
+        private static string ClassLocation = "BurnSoft.mgc.convert.MyGunCollection.Database";
         private static string mgcPassword => "";
         private static string sConnection => String.Format("Driver={Microsoft Access Driver (*.mdb)};dbq={0}\\{1}; Pwd={2}", "APPLICATION_PATH_DATA", "DATABASE_NAME", mgcPassword);
 
