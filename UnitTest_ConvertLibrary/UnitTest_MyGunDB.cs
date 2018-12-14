@@ -8,7 +8,9 @@ namespace UnitTest_ConvertLibrary
     public class UnitTest_MyGunDB
     {
         public string errOut;
-
+        /// <summary>
+        /// Defines the test method TestMethod_ListMyGunDBData.
+        /// </summary>
         [TestMethod]
         public void TestMethod_ListMyGunDBData()
         {
